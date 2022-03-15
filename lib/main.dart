@@ -29,7 +29,7 @@ class FirstScreen extends StatelessWidget {
         child: RaisedButton(
           color: Colors.deepPurple,
           child: Text(
-            'Navigate To Secondzdsdfs Screen',
+            'Navigate To Second Screen',
             style: TextStyle(color: Colors.white),
           ),
           onPressed: () {
